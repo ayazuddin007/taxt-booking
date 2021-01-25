@@ -12,6 +12,7 @@
         <h1>Welcome to Home Page</h1>
         <h1>Welcome to Services</h1>
         <h1>Welcome to Products</h1>
+	<h1>Welcome to Contact Us</h1>
         GET all the <a href="${pageContext.request.contextPath}/resources/persons"/>persons</a>.
     </body>
 </html>
